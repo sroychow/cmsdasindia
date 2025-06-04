@@ -12,7 +12,7 @@ All students should aim to complete the pre-exercises with the same laptop they'
 
 **How to approach the exercise?**: For each topic, the particpants are required to go through the lectures linked from the indico page and listen to the recordings. Specific instructions for each topic will be provided below.
 
-**Submission of answers**: After completing the lectures, you are asked to fill out this **google form** with answers to specific problems.
+**Submission of answers**: After completing the lectures, you are asked to fill out this **[google form](https://forms.gle/JQdgmwNywsQpmSmw5)** with answers to specific problems. The form is also attached from the indico page.
 
 **Instructors**: Subir Sarkar, Suvankar Roy Chowdhury 
 
@@ -51,3 +51,11 @@ Following this, try to answer Questions 6-7.
 Material for this topic is taken from a 5 part lecture and tutorial series held in February-March 2025 for India-CMS students. The slides and recording can be found [here](https://indico.cern.ch/event/1553817/#b-622182-cmssw-tutorial). You are encouraged to go through the lecture slides and recordings for the three lectures and Hands-on session 1 & 2. The detailed instructions for the tutorial can be found in this gitlab [link](https://gitlab.cern.ch/sroychow/cmssw-tutorial).
 
 After completing these lectures you shall be able to answer the Questions 8-10.
+
+## Topic 6: Python basics
+
+The [material](https://indico.cern.ch/event/1553817/#b-622684-introduction-to-pytho) of this topic is taken from a series of lectures given by Prof. Subir Sarkar in 2024. The material may be useful for any participants not familiar with Python programming. Python is widely used both in CMSSW and in standalone analysis frameworks, so it is advised that participants become familiar with it.
+
+## Topic 7: ROOT basics
+
+The [content](https://indico.cern.ch/event/1553817/#b-622688-introduction-to-root) of this section is taken from lectures given by Prof. Saranya Samik Ghosh  in 2023. These lectures introduces basics of ROOT, which you will certainly use on a daily basis during your work with HEP experiments. It is advised that the participants make themselves familiar with ROOT basics.
